@@ -3,7 +3,7 @@ public class Main {
 
         // Задача 1
         System.out.println("Задача 1");
-        int year = 2012;
+        int year = 2000;
         checkYear(year);
 
         // Задача 2
